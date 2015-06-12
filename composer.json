@@ -11,12 +11,6 @@
             "email": "angelherdora@gmail.com"
         }
     ],
-	"autoupdate": {
-    "source": "git",
-    "target": "git://github.com/angelherdora/angular-chat-shoping",
-    "basePath": "/",
-    "files": [
-      "*.js"
+    "bin": [
     ]
-  },
 }
